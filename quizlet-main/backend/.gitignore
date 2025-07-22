@@ -1,0 +1,4 @@
+.venv
+*.sqlite3
+*.pyc
+*.cpython-312.pyc
