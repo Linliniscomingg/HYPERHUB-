@@ -86,7 +86,7 @@ Tích hợp **hệ thống gợi ý khóa học thông minh** dựa trên thuậ
 
 
 
-For any questions or contributions, please reach out at \[\*\*hpling2003@gmail.com\*\*](mailto\\:hpling2003@gmail.com).
+For any questions or contributions, please reach out at [**hpling2003@gmail.com**](mailto\\:hpling2003@gmail.com).
 
 
 
